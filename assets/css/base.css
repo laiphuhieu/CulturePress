@@ -1,0 +1,21 @@
+/* reset css */
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+  font-family: sans-serif;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-size: 1.5rem;
+  font-weight: 400;
+  font-family: "Source Sans Pro", sans-serif;
+  line-height: 1.4;
+}
